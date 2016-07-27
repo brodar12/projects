@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">avtodozvon</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">main</string>
+    <string name="title_activity_meniu_central">meniu_central</string>
+    <string name="title_activity_list_activity">list_activity</string>
+    <string name="title_activity_seting_activity">seting_activity</string>
+    <string name="title_activity_statistic_activity">statistic_activity</string>
+    <string name="title_activity_start_activity">start_activity</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
